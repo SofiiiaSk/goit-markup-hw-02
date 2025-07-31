@@ -65,7 +65,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
 }
-.first-button {
+.button {
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
@@ -73,8 +73,8 @@ a {
   color: #ffffff;
 }
 
-.first-button:hover,
-.first-button:focus {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
   cursor: pointer;
 }
