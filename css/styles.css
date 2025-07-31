@@ -78,9 +78,29 @@ a {
   background-color: #404bbf;
   cursor: pointer;
 }
-
+.second-section {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.paragraf {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 .third-section {
   background-color: #f4f4fd;
+}
+.page-title-third {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .page-footer {
